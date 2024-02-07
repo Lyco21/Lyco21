@@ -1,4 +1,1 @@
-random stuff
-<h3>rndm</h3>
-
-**rd8m**
+<h3>exploring Bitcoin & Nostr</h3>
