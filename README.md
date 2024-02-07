@@ -1,1 +1,6 @@
-<h3>exploring Bitcoin & Nostr</h3>
+#Random stuff
+
+##exploring Bitcoin & Nostr
+
+
+###random stuff
